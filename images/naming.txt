@@ -1,0 +1,7 @@
+language = ban, en
+-
+license plate or regular text = lp
+_
+text or numerical or alphanumerical
+_ 
+any other specialty like low res or high res, upscaled downscaled or single double line separating _
